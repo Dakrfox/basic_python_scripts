@@ -1,4 +1,9 @@
 def run():
+    # lista=[1,2,3,4,'hola',True] 
+    # tupla=(1,2,3,4,5)
+    # lista.append(2)
+    # lista.pop(5)
+    #tupla es estatica por ende no podemos agregar o eliminar
     diccionario={
         'llave1':1,
         'llave2':2,
